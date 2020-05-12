@@ -1,5 +1,5 @@
 # 2018_05_BUSINESS_WEB_PROJECT
-MAKE BUSINESS DB &amp; WEB SITE WITH PHP &amp; javasrcipt we can make some backhand functions
+MAKE BUSINESS DB &amp; WEB SITE WITH PHP &amp; javasrcipt we made some backhand and fronthand functions
 
 THIS IS MY FIRST WEB DESIGN PROJECT WITH JAVASCRIPT & PHP CODE.
 
